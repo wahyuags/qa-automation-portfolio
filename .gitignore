@@ -4,6 +4,12 @@ __pycache__/
 *.pyo
 *.pyd
 
+# === WebDriver binaries ===
+chromedriver*
+geckodriver*
+msedgedriver*
+
+
 # === Virtual Environment ===
 venv/
 .env
