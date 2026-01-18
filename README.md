@@ -74,7 +74,7 @@ project-root/
 ### Setup
 
 ```bash
-git clone https://github.com/your-username/qa-automation-portfolio.git
+git clone https://github.com/wahyuags/qa-automation-portfolio.git
 cd qa-automation-portfolio
 
 python -m venv venv
